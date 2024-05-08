@@ -6,6 +6,9 @@ __pycache__
 db.sqlite3
 media
 
+# open ai
+openai_api/
+
 # Backup files #
 *.bak
 
