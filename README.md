@@ -33,3 +33,11 @@
 ### Para manipular imagens
 
 # python -m pip install Pillow
+
+# ------------------------------------------------------------------------------
+
+### para criar um arquivo listando as libs, para boas praticas
+
+# pip freeze > requirements.txt
+
+# pip install -r ./requirements.txt
