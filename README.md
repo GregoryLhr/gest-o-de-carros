@@ -41,3 +41,9 @@
 # pip freeze > requirements.txt
 
 # pip install -r ./requirements.txt
+
+# ------------------------------------------------------------------------------
+
+### para add Django shell - melhor para consultas a banco de dados
+
+# python manage.py shell
